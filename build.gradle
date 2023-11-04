@@ -1,0 +1,14 @@
+buildscript {
+    ext {
+        compose_ui_version = '1.4.3'
+        compose_compiler = '1.5.31'         //compiler
+        compose_version = '1.6.10'   //compose dependencies
+        compose_material3 = '1.0.0-beta02' //material3 release
+    }
+}// Top-level build file where you can add configuration options common to all sub-projects/modules.
+plugins {
+
+    id 'com.android.application' version '7.4.1' apply false
+    id 'com.android.library' version '7.4.1' apply false
+    id 'org.jetbrains.kotlin.android' version '1.8.20' apply false
+}
