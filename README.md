@@ -9,7 +9,7 @@ Berikut adalah langkah-langkah untuk menjalankan aplikasi Rubik's Cube:
 1. **Clone Repositori**:
    - Clone repositori ini ke komputer Anda dengan menjalankan perintah berikut di terminal:
      ```shell
-     git clone [https://github.com/nama-pengguna/repo-anda.git](https://github.com/gianzra/RubikInformationComposeApps.git)
+     git clone [https://github.com/nama-pengguna/repo-anda.git](https://github.com/gianzra/RubikInformationComposeApps.git)](https://github.com/gianzra/RubikInformationComposeApps.git)
      ```
 
 2. **Buka Proyek di Android Studio**:
